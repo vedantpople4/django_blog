@@ -11,7 +11,7 @@
                     </small>
                 </div>
                 <h2>
-                    <a class="article-title" href="#">{{object.title}}</a>
+                    <a class="article-title" href="{% url 'post-detail' post.id %}">{{object.title}}</a>
                 </h2>
                 <p class="article-content">{{ object.content }}</p>
             </div>
