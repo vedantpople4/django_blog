@@ -1,3 +1,5 @@
 # django_blog
 
-In this project we look forward to making a Blog application using Django.
+Complete Djago application to create, edit, update a blogging website. 
+<br> 
+Made with Admin access and User usability as well. Stores the name, email, image as input for user. 
